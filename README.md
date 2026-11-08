@@ -1,4 +1,4 @@
-# 🏛️ 한국청년미디어 (KYM) 플랫폼 아키텍처 쇼케이스
+# 🏛️ 한국청년미디어 플랫폼 아키텍처 쇼케이스
 > **Next.js 15 · Supabase · Cloudflare R2 · 고성능 On-Demand ISR 기반 차세대 디지털 뉴스룸 시스템**
 
 [![Production Status](https://img.shields.io/badge/Platform-Live%20Production-0066FF?style=for-the-badge&logo=safari&logoColor=white)](https://kym.io.kr)
@@ -7,7 +7,7 @@
 [![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL%20%26%20Auth-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
 [![Cloudflare R2](https://img.shields.io/badge/Cloudflare%20R2-Edge%20Object%20Storage-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://cloudflare.com)
 
-본 저장소는 독립 온라인 저널리즘 미디어 플랫폼 **한국청년미디어(kym.io.kr)**의 프로덕션 시스템 아키텍처, 성능 최적화 전략 및 엔지니어링 설계를 소개하는 기술 쇼케이스입니다. (보안 및 개인정보 보호를 위해 비공개 핵심 소스코드를 제외한 인프라 및 시스템 설계 중심으로 구성되었습니다.)
+본 저장소는 독립 온라인 저널리즘 미디어 플랫폼 **[한국청년미디어](https://kym.io.kr)**의 프로덕션 시스템 아키텍처, 성능 최적화 전략 및 엔지니어링 설계를 소개하는 기술 쇼케이스입니다. (보안 및 개인정보 보호를 위해 비공개 핵심 소스코드를 제외한 인프라 및 시스템 설계 중심으로 구성되었습니다.)
 
 ---
 
